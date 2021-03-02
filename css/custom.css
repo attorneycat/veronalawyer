@@ -1,54 +1,12 @@
-.header-topic {
-    color: #1cbcc6;
-    font-family: "Times New Roman", Times, serif;
-    font-size: 24px;
-    padding-top: 20px;
-    padding-bottom: 20px;
-}
-
-.licensed { 
-    padding-top: 20px; 
-    padding-bottom: 20px;
-}
-
-.cursive {
-    font-family: 'Great Vibes', cursive;
-    font-size: 32px;
-    color: #555;
-}
-
-.bookBanner {
-    height: 200px;
-    background-color: #f8f9fa;
-    color: #444444;
-}
-
-.nav-icon {
-    padding-left: 3px;
-    padding-right: 3px;
-}
-
-a:hover {
-    text-decoration: none !important;
-}
-
-.client-testimonials {
-    padding-top: 20px;
-    padding-bottom: 20px;
-}
-
-.testimonial-name {
-    margin-bottom: 0px;
-}
-
+.header-topic {    color: #1cbcc6;    font-family: "Times New Roman", Times, serif;    font-size: 24px;    padding-top: 20px;    padding-bottom: 20px;}
+.licensed {     padding-top: 20px;     padding-bottom: 20px;}
+.cursive {    font-family: 'Great Vibes', cursive;    font-size: 32px;    color: #555;}
+.bookBanner {    height: 200px;    background-color: #f8f9fa;    color: #444444;}.cat-navbar .nav-item.active .nav-link { color: #1cbcc6; font-weight: bold; } .nav-icon-link, .footer-icon-link { color: black; }.nav-icon-link:hover, .footer-icon-link:hover { color: #1cbcc6; }
+.nav-icon {    padding-left: 3px;    padding-right: 3px;}
+a:hover {    text-decoration: none !important;}
+.client-testimonials {    padding-top: 20px;    padding-bottom: 20px;}
+.testimonial-name {    margin-bottom: 0px;}
 .testimonial-title {
-    
 }
-
-.testimonial-text {
-    padding-top: 10px;
-}
-
-.consultation-form .container {
-    margin-top: -50px;
-}
+.testimonial-text {    padding-top: 10px;}
+.consultation-form .container {    margin-top: -50px;}.footer-link { color: black; }.footer-link:hover { color: #1cbcc6; }
